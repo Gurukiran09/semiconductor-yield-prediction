@@ -116,7 +116,7 @@ A constant-feature analysis identified 116 sensor features with no meaningful va
 
 These features were removed from the dataset.
 
-After missing-value filtering and constant-feature removal, 446 sensor features remained for the initial machine learning experiments.
+After preprocessing, 446 sensor features remained for the initial machine learning experiments.
 
 ### 5.5 Exploratory Data Analysis
 
